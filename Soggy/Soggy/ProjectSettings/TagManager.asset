@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Characters
+  - Coins
+  - 
+  - TerrainTiles
+  - 
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 570734175
+    locked: 0
+  - name: EnemyCloaked
+    uniqueID: 1840617687
+    locked: 0
+  - name: BG foreground
+    uniqueID: 1780743327
+    locked: 0
+  - name: Tiles
+    uniqueID: 3385217261
+    locked: 0
+  - name: Enemy
+    uniqueID: 3699722945
+    locked: 0
+  - name: Items
+    uniqueID: 431358299
+    locked: 0
+  - name: Characters
+    uniqueID: 229787297
+    locked: 0
+  - name: Effects
+    uniqueID: 4289999159
+    locked: 0
+  - name: UI
+    uniqueID: 4161275179
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

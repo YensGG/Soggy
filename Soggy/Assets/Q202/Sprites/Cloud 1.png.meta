@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: 5af23d56b9ad8de4fbbbd48213ba1e54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8875591370243746762
+    second: Cloud 1_0
+  - first:
+      213: -4468437672731247667
+    second: Cloud 1_1
+  - first:
+      213: -4313308438876369523
+    second: Cloud 1_2
+  - first:
+      213: -4712323013064948090
+    second: Cloud 1_3
+  - first:
+      213: -4050238500035161675
+    second: Cloud 1_4
+  - first:
+      213: -5939702464656401381
+    second: Cloud 1_5
+  - first:
+      213: -6052526988400499307
+    second: Cloud 1_6
+  - first:
+      213: 25379718642787481
+    second: Cloud 1_7
+  - first:
+      213: -2354900676652515866
+    second: Cloud 1_8
+  - first:
+      213: -1618224303397065204
+    second: Cloud 1_9
+  - first:
+      213: 118527930143403785
+    second: Cloud 1_10
+  - first:
+      213: 6102545098890848386
+    second: Cloud 1_11
+  - first:
+      213: 9124514245160087622
+    second: Cloud 1_12
+  - first:
+      213: -8423845734601658622
+    second: Cloud 1_13
+  - first:
+      213: 1567258971736514808
+    second: Cloud 1_14
+  - first:
+      213: -2236287056594207734
+    second: Cloud 1_15
+  - first:
+      213: 6252570519534145465
+    second: Cloud 1_16
+  - first:
+      213: -7203379473793252998
+    second: Cloud 1_17
+  - first:
+      213: 2269013458474077682
+    second: Cloud 1_18
+  - first:
+      213: 6787159811265693299
+    second: Cloud 1_19
+  - first:
+      213: -5364500728336035086
+    second: Cloud 1_20
+  - first:
+      213: -3995347713966928914
+    second: Cloud 1_21
+  - first:
+      213: 519493114120098591
+    second: Cloud 1_22
+  - first:
+      213: -5350824767286192413
+    second: Cloud 1_23
+  - first:
+      213: -3022340240796216506
+    second: Cloud 1_24
+  - first:
+      213: -2587423280256371885
+    second: Cloud 1_25
+  - first:
+      213: 8983468993128527102
+    second: Cloud 1_26
+  - first:
+      213: -6332568742901032968
+    second: Cloud 1_27
+  - first:
+      213: -719526800869924965
+    second: Cloud 1_28
+  - first:
+      213: 1496368814892298593
+    second: Cloud 1_29
+  - first:
+      213: 3853671526457748466
+    second: Cloud 1_30
+  - first:
+      213: -7686856429031087504
+    second: Cloud 1_31
+  - first:
+      213: 1272454014416829880
+    second: Cloud 1_32
+  - first:
+      213: 3782797780849855773
+    second: Cloud 1_33
+  - first:
+      213: -8520401549220632995
+    second: Cloud 1_34
+  - first:
+      213: -6853003805349031616
+    second: Cloud 1_35
+  - first:
+      213: -930189231393717476
+    second: Cloud 1_36
+  - first:
+      213: 4414252463995847800
+    second: Cloud 1_37
+  - first:
+      213: -8534333725768842593
+    second: Cloud 1_38
+  - first:
+      213: -714644971426747572
+    second: Cloud 1_39
+  - first:
+      213: -3465364658834024574
+    second: Cloud 1_40
+  - first:
+      213: -5707487978442826055
+    second: Cloud 1_41
+  - first:
+      213: 2897914650113558670
+    second: Cloud 1_42
+  - first:
+      213: -166752223594316302
+    second: Cloud 1_43
+  - first:
+      213: 1636220343729404557
+    second: Cloud 1_44
+  - first:
+      213: 1178502911322280143
+    second: Cloud 1_45
+  - first:
+      213: -6690866850585001911
+    second: Cloud 1_46
+  - first:
+      213: -7876693181881045451
+    second: Cloud 1_47
+  - first:
+      213: -4673974030214194833
+    second: Cloud 1_48
+  - first:
+      213: 7983593160008149914
+    second: Cloud 1_49
+  - first:
+      213: -2867934462221006482
+    second: Cloud 1_50
+  - first:
+      213: -861680183797726558
+    second: Cloud 1_51
+  - first:
+      213: -2976320801783362497
+    second: Cloud 1_52
+  - first:
+      213: 7459835780108458060
+    second: Cloud 1_53
+  - first:
+      213: -7568458146871801974
+    second: Cloud 1_54
+  - first:
+      213: 8366286403978927119
+    second: Cloud 1_55
+  - first:
+      213: -6395417258942161922
+    second: Cloud 1_56
+  - first:
+      213: -9136722641105724358
+    second: Cloud 1_57
+  - first:
+      213: 7355237219949560803
+    second: Cloud 1_58
+  - first:
+      213: 4377198424257396949
+    second: Cloud 1_59
+  - first:
+      213: -755891702548046049
+    second: Cloud 1_60
+  - first:
+      213: -2516698257393581186
+    second: Cloud 1_61
+  - first:
+      213: 5318708506494606135
+    second: Cloud 1_62
+  - first:
+      213: -480748843496857006
+    second: Cloud 1_63
+  - first:
+      213: 5008700700755811810
+    second: Cloud 1_64
+  - first:
+      213: -4970676499921970486
+    second: Cloud 1_65
+  - first:
+      213: 2401169784754408395
+    second: Cloud 1_66
+  - first:
+      213: -8717499744476431050
+    second: Cloud 1_67
+  - first:
+      213: 3654820150062261227
+    second: Cloud 1_68
+  - first:
+      213: 7789556124496061576
+    second: Cloud 1_69
+  - first:
+      213: -5070475077522402995
+    second: Cloud 1_70
+  - first:
+      213: -4660160712713956286
+    second: Cloud 1_71
+  - first:
+      213: -8026691801994256760
+    second: Cloud 1_72
+  - first:
+      213: 1324638378264004237
+    second: Cloud 1_73
+  - first:
+      213: -5827492826043717608
+    second: Cloud 1_74
+  - first:
+      213: 3277500378726753574
+    second: Cloud 1_75
+  - first:
+      213: -9001287067607394562
+    second: Cloud 1_76
+  - first:
+      213: 6049408538367142818
+    second: Cloud 1_77
+  - first:
+      213: 5212081135897333564
+    second: Cloud 1_78
+  - first:
+      213: -1113562368024871655
+    second: Cloud 1_79
+  - first:
+      213: 988076966111149564
+    second: Cloud 1_80
+  - first:
+      213: -8718945336197659855
+    second: Cloud 1_81
+  - first:
+      213: 6456899452604992229
+    second: Cloud 1_82
+  - first:
+      213: 3582605515610635478
+    second: Cloud 1_83
+  - first:
+      213: 7787473479761395655
+    second: Cloud 1_84
+  - first:
+      213: 3444170928171787212
+    second: Cloud 1_85
+  - first:
+      213: -5651708470974545529
+    second: Cloud 1_86
+  - first:
+      213: -3978482409803057451
+    second: Cloud 1_87
+  - first:
+      213: 1279045119286768308
+    second: Cloud 1_88
+  - first:
+      213: 1720318313030878731
+    second: Cloud 1_89
+  - first:
+      213: 1655997334577487993
+    second: Cloud 1_90
+  - first:
+      213: -5250600329343452510
+    second: Cloud 1_91
+  - first:
+      213: -5329482310164333802
+    second: Cloud 1_92
+  - first:
+      213: -7764358694394874357
+    second: Cloud 1_93
+  - first:
+      213: -7013416312325031785
+    second: Cloud 1_94
+  - first:
+      213: -2266849459737588908
+    second: Cloud 1_95
+  - first:
+      213: -3199098182832954004
+    second: Cloud 1_96
+  - first:
+      213: 8776584875335793165
+    second: Cloud 1_97
+  - first:
+      213: -3506898413067859119
+    second: Cloud 1_98
+  - first:
+      213: -611545211524907513
+    second: Cloud 1_99
+  - first:
+      213: -9196793125276816448
+    second: Cloud 1_100
+  - first:
+      213: 4281816679462614737
+    second: Cloud 1_101
+  - first:
+      213: 7340724037894910931
+    second: Cloud 1_102
+  - first:
+      213: -770146280986742707
+    second: Cloud 1_103
+  - first:
+      213: -7569132041543544063
+    second: Cloud 1_104
+  - first:
+      213: 1610591064934250256
+    second: Cloud 1_105
+  - first:
+      213: -3292814533730566620
+    second: Cloud 1_106
+  - first:
+      213: 1432325042958585434
+    second: Cloud 1_107
+  - first:
+      213: 819699712689545950
+    second: Cloud 1_108
+  - first:
+      213: -1934053703328617247
+    second: Cloud 1_109
+  - first:
+      213: -8584897896317263473
+    second: Cloud 1_110
+  - first:
+      213: -2554547710964926962
+    second: Cloud 1_111
+  - first:
+      213: -6335668663972409629
+    second: Cloud 1_112
+  - first:
+      213: -1202756502763385453
+    second: Cloud 1_113
+  - first:
+      213: -7719650512435854979
+    second: Cloud 1_114
+  - first:
+      213: 4033128684208292393
+    second: Cloud 1_115
+  - first:
+      213: 814715024733557156
+    second: Cloud 1_116
+  - first:
+      213: -964741657155863016
+    second: Cloud 1_117
+  - first:
+      213: -653209900289166504
+    second: Cloud 1_118
+  - first:
+      213: -7650053464202077016
+    second: Cloud 1_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba6ea835f6c2b70800000000000000
+      internalID: 8875591370243746762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb71e78c9becf1c0800000000000000
+      internalID: -4468437672731247667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4416e3dc0424c0800000000000000
+      internalID: -4313308438876369523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6868d53cf277a9eb0800000000000000
+      internalID: -4712323013064948090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b11bc51b89aac7c0800000000000000
+      internalID: -4050238500035161675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c94aa0410f19da0800000000000000
+      internalID: -5939702464656401381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5956cee85ca110ca0800000000000000
+      internalID: -6052526988400499307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e33a38ba2a5000800000000000000
+      internalID: 25379718642787481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbcc6bf46b15fd0800000000000000
+      internalID: -2354900676652515866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud 1_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2d1dd199ea89e0800000000000000
+      internalID: -1618224303397065204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
